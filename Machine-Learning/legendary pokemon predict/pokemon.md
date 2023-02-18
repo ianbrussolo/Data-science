@@ -1564,7 +1564,7 @@ plt.xlabel("PC1")
 plt.ylabel("PC2")
 plt.legend(['Non-legendary', 'Legendary', 'Non-legendary missclassified', 'Legendary misclassified'])
 plt.title("PCA Scatter Plot")
-plt.show
+plt.show()
 ```
 
 
