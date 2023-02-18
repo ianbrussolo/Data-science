@@ -1576,7 +1576,7 @@ plt.show
 
 
     
-![png](output_52_1.png)
+![png](Machine-Learning/legendary pokemon predict/output_53_1.png)
     
 
 
