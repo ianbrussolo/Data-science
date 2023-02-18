@@ -3,8 +3,3 @@ This was my first contact with Machine Learning in Python, using Jupyter Noteboo
 You can check the code and plots in the markdown file: [pokemon.md](https://github.com/ianbrussolo/Data-science/blob/37db811babeefd98c9fb2448eed372212ee8ba8e/Machine-Learning/legendary%20pokemon%20predict/pokemon.md)
 
 This was a tutorial follow along project.
-
-Those are images for graphs not loaded on notebook.
-
-![resultsGraph1](https://user-images.githubusercontent.com/98843691/219881607-ff68ff03-7ad0-4292-acd8-77d5735a7cad.jpg)
-![resultsGraph2](https://user-images.githubusercontent.com/98843691/219881608-a99a5359-b1eb-47fc-be5d-b5afdd6b85d3.jpg)
