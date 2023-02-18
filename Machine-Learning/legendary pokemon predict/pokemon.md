@@ -1576,8 +1576,8 @@ plt.show()
 
 
     
-![PCA plot]([Machine-Learning/legendary pokemon predict/output_53_1.png](https://github.com/ianbrussolo/Data-science/blob/1f530b7687c6a71bdc299fbedc792be394c74bdd/Machine-Learning/legendary%20pokemon%20predict/output_53_1.png))
-    
+
+![output_53_1](https://user-images.githubusercontent.com/98843691/219882414-770b720e-9966-4a8c-91b8-6359c035a967.png)
 
 
 # Conclusion
